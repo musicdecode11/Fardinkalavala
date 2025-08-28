@@ -7,17 +7,11 @@
         "Allowoffline": true
     },
     {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    }
-    {
         "device_id": "da51ccdb1a4b7692",
         "username": "JimPro",
-        "password": "JimPro",
-        "expirydate": "31-12-2999",
-        "Allowoffline": true
-    },
+        "password": "123456789",
+        "expirydate": "15-06-2027",
+        "Allowoffline": false
+    }
+    
 ]
